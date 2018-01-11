@@ -1,0 +1,29 @@
+{
+  "name": "loksa3",
+  "version": "1.0.0",
+  "description": "my local bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loksakml/bot.git"
+  },
+  "keywords": [
+    "bot",
+    "micrsoft",
+    "slack",
+    "firstbot"
+  ],
+  "author": "Ka Man Lok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loksakml/bot/issues"
+  },
+  "homepage": "https://github.com/loksakml/bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "restify": "^6.3.4"
+  }
+}
